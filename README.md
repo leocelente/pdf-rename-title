@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```shell
+```
 usage: python3 main.py [-h] [--version] [--dry-run] <DIR>
 
 Batch renames PDF files to their Titles (Content-Title)
